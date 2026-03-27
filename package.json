@@ -1,0 +1,11 @@
+{
+  "name": "eyebreak",
+  "version": "1.0.0",
+  "description": "CLI reminder to look out the window every 30 minutes",
+  "bin": {
+    "eyebreak": "./bin/eyebreak.js"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
