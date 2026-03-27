@@ -28,3 +28,7 @@ eyebreak
 ```
 
 `Ctrl+C` to stop.
+
+## Troubleshooting
+
+If you see the log messages in the terminal but no notification appears, check that notifications are enabled for the app in **System Settings → Notifications**. Make sure the terminal or Node.js is allowed to send notifications.
